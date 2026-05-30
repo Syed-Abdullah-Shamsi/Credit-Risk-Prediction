@@ -44,5 +44,5 @@ Loan Prediction Dataset
 Successfully built a classification model to predict loan approval status and evaluated its performance using standard metrics.
 
 ## Author
-Syed Shamsi
+Syed Abdullah Shamsi
 Data Science & Analytics Intern
